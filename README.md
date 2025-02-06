@@ -1,6 +1,6 @@
 # Ngwenya Sithole
 
-Hello! I'm Ngwenya Sithole, a passionate software developer with a keen interest in open-source projects, web development, and AI-driven technologies. Welcome to my GitHub profile!
+Hello! I'm Ngwenya Sithole, a passionate self taught software developer with a keen interest in open-source projects, web development, and AI-driven technologies. Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
